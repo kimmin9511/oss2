@@ -1,5 +1,0 @@
-hanyang
-
-cat
-
-red

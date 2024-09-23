@@ -1,4 +1,0 @@
-hanyang
-university
-
-red

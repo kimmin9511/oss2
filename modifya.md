@@ -1,6 +1,0 @@
-hanyang
-university
-
-cat
-
-red
